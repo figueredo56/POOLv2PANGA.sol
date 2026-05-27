@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-contract ZRD2Token {
-    string public name = "ZRD.2";
-    string public symbol = "ZRD.2";
+contract ZRN1Token {
+    string public name = "ZRN.1";
+    string public symbol = "ZRN.1";
     uint8 public decimals = 18;
     uint256 public totalSupply;
 
