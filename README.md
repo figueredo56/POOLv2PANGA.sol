@@ -2,7 +2,7 @@
 # Z.2 Token (BEP-20)  A clean, minimalist BEP-20 smart contract for the **Z** token on BNB Chain. Optimized for 100% success verification on BscScan and fully compatible with PancakeSwap V2 and PinkLock.  * **Supply:** 100 Z * **Solidity:** 0.8.20 * **Features:** Safe for PinkSale/PinkLock liquidity locking.
 ---
 ---
-![ZAARD INNOVATION](bafybeibmhheisrjxpxpcsh6goj6c4pxraz5xkcizn4aiyl5eamdc5qyc3m)
+![ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/Z.2-token/refs/heads/main/CC_20260609_210708.png)
 
 Z2 is the ultra-exclusive, hyper-scarce utility token of the ZAARD ecosystem. Engineered with a strict maximum total supply of just 100 tokens, Z2 redefines the concept of digital scarcity on the BNB Smart Chain (BSC).
 
